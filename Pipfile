@@ -5,8 +5,11 @@ name = "pypi"
 
 [packages]
 django = "*"
+behave-django = "*"
+selenium = "*"
 
 [dev-packages]
+ipdb = "*"
 
 [requires]
 python_version = "3.6"
